@@ -33,7 +33,7 @@
                 android:id="@+id/textView_superior"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="El nombre de alvariño"
+                android:text="El nombre de alvariño gey"
                 android:textSize="@dimen/text_size"
                 style="@style/negro" />
 
@@ -42,7 +42,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/text_size_uno"
-                android:text="la direccion de alvariño"
+                android:text="la direccion de alvariño gey"
                 style="@style/plomo"/>
 
             <TextView
@@ -50,7 +50,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/text_size_dos"
-                android:text="el tiempo de alvariño"
+                android:text="el tiempo de alvariño gey"
                 style="@style/casiblanco"/>
 
         </LinearLayout>
